@@ -1,16 +1,14 @@
-### Hi there 👋
+# **Fidel Enrique Vera Chourio**
+*Data Scientist | Industrial Engineer | Biologist*
 
-<!--
-**fevc08/fevc08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **About me**
+🏋🏽‍♂️Workout | 📖Read | 💻Programming | 🍷Wine
+- 🇻🇪 - 🇨🇱 I am Venezuelan living in Chile
+- 👨🏽‍💻 | 👷🏽‍♂️ | 🧬 Data Science, Industrial Engineering and Biology professional
+- 👨🏽‍💼 Currently working as a Sales and Customer Service Executive
+- 🍷 Wine enthusiast (I've been working in the Wine Industry)
 
-Here are some ideas to get you started:
+## **Tech & Tools Preference**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
