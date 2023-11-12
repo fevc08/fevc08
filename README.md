@@ -29,3 +29,22 @@ I am a Venezuelan (🇻🇪) living in Chile (🇨🇱). I studied Data Science 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+## ⚙️**Activity**
+#### **Stats**
+
+<a href="https://github.com/fevc08/fevc08">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=fevc08&hide=stars,issues&theme=dark" />
+</a>
+<a href="https://github.com/fevc08/fevc08">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fevc08&layout=compact&langs_count=8&theme=dark" />
+</a>
+
+#### **Repositories**
+
+<a href="https://github.com/fevc08/fevc08">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fevc08&repo=new_york_city_airbnb_eda&theme=dark" />
+</a>
+<a href="https://github.com/fevc08/fevc08">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fevc08&repo=k-nearest_neighbors_project&theme=dark" />
+</a>
