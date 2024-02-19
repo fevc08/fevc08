@@ -3,7 +3,7 @@
 ## 📝**About me**
 🏋🏽‍♂️Workout | 📖Read | 💻Programming | 🍷Wine | 🎵Music
 
-I am a Venezuelan (🇻🇪) living in Chile (🇨🇱). I studied Data Science and Machine Learning 👨🏽‍💻, Industrial Engineering 👷🏽‍♂️ and Biology 🧬. I am currently working as a Sales and Customer Service Executive 👨🏽‍💼 and have experience in other areas as winemaking, participating in four vintages, and other administrative process.
+I am a Venezuelan (🇻🇪) living in Chile (🇨🇱). Machine Learning Engineer 👨🏽‍💻, Industrial Engineer 👷🏽‍♂️ and Biologist 🧬. I am currently working as a Sales and Customer Service Executive 👨🏽‍💼 and have experience in other areas as winemaking, participating in four vintages, and other administrative process.
 
 ## 🔧**Tech & Tools Preference**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
