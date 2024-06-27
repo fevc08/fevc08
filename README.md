@@ -46,5 +46,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=fevc08&layout=compact&langs_count=8&theme=dark)
 
 ### Featured Repositories
-[![New York City Airbnb EDA](https://github-readme-stats.vercel.app/api/pin/?username=fevc08&repo=new_york_city_airbnb_eda&theme=dark)](https://github.com/fevc08/new_york_city_airbnb_eda)
-[![K-Nearest Neighbors Project](https://github-readme-stats.vercel.app/api/pin/?username=fevc08&repo=k-nearest_neighbors_project&theme=dark)](https://github.com/fevc08/k-nearest_neighbors_project)
+[![New York City Airbnb EDA](https://github-readme-stats.vercel.app/api/pin/?username=fevc08&repo=final_project_4geek&theme=dark)](https://github.com/fevc08/final_project_4geek)
+[![Detección de Fraudes en Transacciones Bancarias](https://github-readme-stats.vercel.app/api/pin/?username=fevc08&repo=c18-61-m-data-bi&theme=dark)](https://github.com/fevc08/c18-61-m-data-bi)
