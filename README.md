@@ -1,8 +1,4 @@
 <img src="Data Science  Industrial Engineering  Biology (1).png">
-<div align="center">
-<h1 align="center">Fidel Enrique Vera Chourio</h1>
-<h2 align="center">Data Scientist | Industrial Engineer | Biologist</h2>
-</div>
 
 ## 📝 **About Me**
 - 🏋🏽‍♂️ Fitness | 📖 Reading | 💻 Programming | 🍷 Wine | 🎵 Music
