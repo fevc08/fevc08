@@ -1,5 +1,8 @@
-# **Fidel Enrique Vera Chourio**
-*Data Scientist | Industrial Engineer | Biologist*
+<img src="Data Science  Industrial Engineering  Biology (1).png">
+<div align="center">
+<h1 align="center">Fidel Enrique Vera Chourio</h1>
+<h2 align="center">Data Scientist | Industrial Engineer | Biologist</h2>
+</div>
 
 ## 📝 **About Me**
 - 🏋🏽‍♂️ Fitness | 📖 Reading | 💻 Programming | 🍷 Wine | 🎵 Music
@@ -9,8 +12,7 @@
 
 ## 🔧 **Tech & Tools Preference**
 ### Programming Languages:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Data Science & Analysis:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
