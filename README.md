@@ -1,6 +1,6 @@
 <img src="Data Science Logistics Supply Chain.png">
 
-# 👨‍💻 **Fidel Vera Chourio**  
+# 👨‍💻 **Fidel Enrique Vera Chourio**  
 **Industrial Engineer | Data Scientist | Logistics & Analytics Specialist**  
 
 ---
