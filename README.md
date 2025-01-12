@@ -62,7 +62,7 @@
 ## 🎯 **Featured Projects**  
 
 - **Wine Pairing Recommender App**  
-  [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/fevc08/wine-recommender)  
+  [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/fevc08/final_project_4geek)
   Aplicación basada en aprendizaje automático para recomendaciones de maridaje de vinos, utilizando Python, SQLite y Streamlit.  
 
 - **Bank Transaction Fraud Detection**  
@@ -70,8 +70,12 @@
   Modelo de detección de fraudes bancarios mediante análisis de datos y aprendizaje automático con Python y scikit-learn.  
 
 - **Climate Predictions for Mendoza**  
-  [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/fevc08/climate-predictions)  
-  Predicciones climáticas utilizando datos extraídos con una Rest API y modelos desarrollados en TensorFlow y Power BI.  
+  [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/fevc08/s16-20-m-data-bi)  
+  Predicciones climáticas utilizando datos extraídos con una Rest API y modelos desarrollados en TensorFlow y Power BI.
+
+- **Climate Predictions for Mendoza**  
+  [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/fevc08/s19-02-n-data-bi)  
+  Análisis del impacto del consumo de redes sociales en la calidad del sueño, utilizando herramientas de análisis de datos (Python - Pandas) y visualización (Power BI).
 
 ---
 
