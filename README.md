@@ -78,5 +78,3 @@
   Análisis del impacto del consumo de redes sociales en la calidad del sueño, utilizando herramientas de análisis de datos (Python - Pandas) y visualización (Power BI).
 
 ---
-
-### ¿Qué opinas? Este enfoque da una impresión más profesional y organizada mientras destaca tus habilidades y proyectos relevantes. 😊  
