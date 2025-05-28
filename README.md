@@ -1,4 +1,4 @@
-<img src="Data Science Logistics Supply Chain.png">
+<img src="A sleek and modern banner showcasing the intricate world of data science, machine learning, and AI.  (1).jpeg">
 
 # 👨‍💻 **Fidel Enrique Vera Chourio**  
 **Data Scientist | Industrial Engineer | Python | SQL | Power BI | Machine Learning | AWS | Logistics | Sourcing**  
