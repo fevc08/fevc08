@@ -1,4 +1,4 @@
-<img src="A sleek and modern banner showcasing the intricate world of data science, machine learning, and AI.  (1).jpeg">
+<img src="data_science_banner.png">
 
 # 👨‍💻 **Fidel Enrique Vera Chourio**  
 **Data Scientist | Industrial Engineer | Python | SQL | Power BI | Machine Learning | AWS | Logistics | Sourcing**  
