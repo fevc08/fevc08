@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://codesyndicatelatam.com">
-    <img src="https://via.placeholder.com/1500x500/0e0e10/8236fc?text=CODE+SYNDICATE+LATAM+%7C+High-Integrity+Engineering" alt="Code Syndicate Latam" width="100%" />
+    <img src="Infraestructura Digital de Alta Integridad.jpg"/>
   </a>
 </div>
 
