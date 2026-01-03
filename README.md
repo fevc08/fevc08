@@ -6,11 +6,12 @@
 
 <div align="center">
   <br>
+  <h1>Fidel Enrique Vera Chourio</h1>
   <a href="https://codesyndicatelatam.com">
     <img src="https://img.shields.io/badge/CURRENT_ROLE-CEO_%26_CO--FOUNDER-8236fc?style=for-the-badge&labelColor=0e0e10" alt="CEO Role"/>
   </a>
   
-  <h1>👨‍💻 Fidel Enrique Vera Chourio</h1>
+ 
   
   <p>
     <b>Architecting High-Integrity Digital Infrastructure for Latam.</b><br>
