@@ -1,71 +1,97 @@
-<img src="data_science_banner.png">
+<div align="center">
+  <a href="https://codesyndicatelatam.com">
+    <img src="https://via.placeholder.com/1500x500/0e0e10/8236fc?text=CODE+SYNDICATE+LATAM+%7C+High-Integrity+Engineering" alt="Code Syndicate Latam" width="100%" />
+  </a>
+</div>
 
-# 👨‍💻 **Fidel Enrique Vera Chourio**  
-**Project Manager & Business Analyst | Agile | Tech Projects & Process Optimization**  
+<div align="center">
+  <br>
+  <a href="https://codesyndicatelatam.com">
+    <img src="https://img.shields.io/badge/CURRENT_ROLE-CEO_%26_CO--FOUNDER-8236fc?style=for-the-badge&labelColor=0e0e10" alt="CEO Role"/>
+  </a>
+  
+  <h1>👨‍💻 Fidel Enrique Vera Chourio</h1>
+  
+  <p>
+    <b>Architecting High-Integrity Digital Infrastructure for Latam.</b><br>
+    <i>Leading the engineering vision behind <a href="https://codesyndicatelatam.com">Code Syndicate Latam</a> and the URBE Ecosystem.</i>
+  </p>
 
----
-
-## 📝 **About Me**  
-I'm a Project Manager and Business Analyst with a strong technical foundation as an Industrial Engineer and Data Scientist. I specialize in leading tech projects that optimize processes and deliver measurable impact.
-
-- **📈 As a Business Analyst:** I translate complex business needs into clear, actionable technical requirements and define the scope of data-driven solutions.
-
-- **⚙️ As a Project Manager:** I manage the full project lifecycle using Agile (Scrum) methodologies to coordinate teams, manage resources, and ensure value delivery.
-
-- **🐍 As a Data Scientist:** I leverage my technical background (Python, SQL, ML) to build the solutions and bridge the communication gap between development teams and stakeholders. 
-
----
-
-## 🔧 **Tech & Tools Preference**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+  <a href="https://www.linkedin.com/in/fidelverachourio/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0e0e10" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:contacto@codesyndicatelatam.com">
+    <img src="https://img.shields.io/badge/Email-Corporate-white?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0e0e10" alt="Email"/>
+  </a>
+  <a href="https://codesyndicatelatam.com" target="_blank">
+    <img src="https://img.shields.io/badge/HQ-codesyndicatelatam.com-white?style=for-the-badge&logo=google-cloud&logoColor=8236fc&labelColor=0e0e10" alt="Website"/>
+  </a>
+</div>
 
 ---
 
-## ⚙️ **Activity**
+## 🦅 **The Mission**
 
-### Stats:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fevc08&hide=stars,issues&theme=dark)  
+I am an Industrial Engineer and Data Scientist obsessed with **resilience**. 
 
-### Languages Used:  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=fevc08&layout=compact&langs_count=8&theme=dark)  
+I founded **Code Syndicate Latam**, a distributed Product Lab (Santiago 🇨🇱 / Bogotá 🇨🇴), to solve a critical problem: the lack of trust in digital transactions.
+
+We don't operate as a traditional agency. We are a **Product Lab** focused on building proprietary infrastructure using:
+* 🛡️ **Zero-Trust Security** (Identity as the perimeter)
+* ☁️ **Cloud Native Architecture** (Scalability by design)
+* 💎 **High-Integrity Data** (Auditability and truth)
+
+---
+
+## 🏗️ **Active Development (The Lab)**
+
+My primary focus is leading the architecture and roadmap for our flagship initiative:
+
+| Initiative | Role | Tech DNA | Status |
+| :--- | :--- | :--- | :--- |
+| **🏢 URBE Ecosystem** | **Product Architect** | `Cloud Native` `SaaS` `PropTech` | 🚀 *Private Beta / R&D* |
+| _The first platform to guarantee transaction security & identity verification for Real Estate agents in Latam._ | _Defining the core logic and security protocols._ | [**Request Access**](https://codesyndicatelatam.com) |
 
 ---
 
-## 🎯 **Featured Projects**  
+## 🔧 **Engineering Stack**
 
-- **Wine Pairing Recommender App**  
-  [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/fevc08/final_project_4geek)
-  Aplicación basada en aprendizaje automático para recomendaciones de maridaje de vinos, utilizando Python, SQLite y Streamlit.  
+While my role is strategic, I define the technology stack that powers our products. This is the **Code Syndicate Core**:
 
-- **Bank Transaction Fraud Detection**  
-  [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/fevc08/c18-61-m-data-bi)  
-  Modelo de detección de fraudes bancarios mediante análisis de datos y aprendizaje automático con Python y scikit-learn.  
+### **🧠 Data Intelligence (The Brain)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-- **Climate Predictions for Mendoza**  
-  [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/fevc08/s16-20-m-data-bi)  
-  Predicciones climáticas utilizando datos extraídos con una Rest API y modelos desarrollados en TensorFlow y Power BI.
+### **🛡️ Infrastructure & Cloud (The Backbone)**
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-- **Climate Predictions for Mendoza**  
-  [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/fevc08/s19-02-n-data-bi)  
-  Análisis del impacto del consumo de redes sociales en la calidad del sueño, utilizando herramientas de análisis de datos (Python - Pandas) y visualización (Power BI).
+### **📊 Business Intelligence (The Vision)**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
+
+## 🧪 **R&D Background**
+
+Before scaling Code Syndicate, I engineered data-driven solutions that laid the foundation for our current capabilities:
+
+| Prototype | Logic | Stack |
+| :--- | :--- | :--- |
+| **💳 Fraud Detection Model** | *Anomaly Detection in Financial Transactions* | ![Python](https://img.shields.io/badge/-Python-black) ![ML](https://img.shields.io/badge/-ML-black) |
+| **🍷 Wine Pairing Engine** | *Recommendation Systems via Streamlit* | ![Streamlit](https://img.shields.io/badge/-Streamlit-black) |
+| **🌦️ Climate Predictor** | *Forecasting Models & API Integration* | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black) |
+
+---
+
+<div align="center">
+  <p>
+    <b>Code Syndicate Latam S.A.S.</b><br>
+    <i>Santiago HQ • Bogotá R&D Hub</i>
+  </p>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=fevc08&hide=stars,issues&theme=radical&hide_border=true&bg_color=0e0e10&title_color=8236fc&text_color=a8a8b2&icon_color=fbd405" height="150" alt="stats graph" />
+</div>
