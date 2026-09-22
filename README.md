@@ -1,98 +1,66 @@
 <div align="center">
-  <a href="https://codesyndicatelatam.com">
-    <img src="Infraestructura Digital de Alta Integridad.jpg"/>
-  </a>
-</div>
 
-<div align="center">
-  <br>
-  <h1>Fidel Enrique Vera Chourio</h1>
-  <a href="https://codesyndicatelatam.com">
-    <img src="https://img.shields.io/badge/CURRENT_ROLE-CEO_%26_CO--FOUNDER-8236fc?style=for-the-badge&labelColor=0e0e10" alt="CEO Role"/>
-  </a>
-  
- 
-  
-  <p>
-    <b>Architecting High-Integrity Digital Infrastructure for Latam.</b><br>
-    <i>Leading the engineering vision behind <a href="https://codesyndicatelatam.com">Code Syndicate Latam</a> and the URBE Ecosystem.</i>
-  </p>
+# Hola, soy Fidel Vera Chourio 👋
+### Ingeniero Industrial | Cloud Architecture & AWS
 
-  <a href="https://www.linkedin.com/in/fidelverachourio/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0e0e10" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:contacto@codesyndicatelatam.com">
-    <img src="https://img.shields.io/badge/Email-Corporate-white?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0e0e10" alt="Email"/>
-  </a>
-  <a href="https://codesyndicatelatam.com" target="_blank">
-    <img src="https://img.shields.io/badge/HQ-codesyndicatelatam.com-white?style=for-the-badge&logo=google-cloud&logoColor=8236fc&labelColor=0e0e10" alt="Website"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fidelverachourio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fevc1988@gmail.com)
+
 </div>
 
 ---
 
-## 🦅 **The Mission**
+## 🧭 Sobre mí
 
-I am an Industrial Engineer and Data Scientist obsessed with **resilience**. 
+Ingeniero Industrial con base en Curicó, Chile, en transición hacia la arquitectura de soluciones en la nube. Aplico el mismo pensamiento sistémico con el que optimizo procesos de negocio al diseño de arquitecturas AWS: identifico restricciones reales, evalúo alternativas con criterios explícitos (documentados en ADRs) y priorizo soluciones sostenibles en costo, seguridad y escalabilidad — no solo funcionales en el papel.
 
-I founded **Code Syndicate Latam**, a distributed Product Lab (Santiago 🇨🇱 / Bogotá 🇨🇴), to solve a critical problem: the lack of trust in digital transactions.
+Actualmente profundizando en arquitectura cloud a través del programa de SOFOFA, con foco en patrones híbridos, microservicios, serverless y seguridad en AWS.
 
-We don't operate as a traditional agency. We are a **Product Lab** focused on building proprietary infrastructure using:
-* 🛡️ **Zero-Trust Security** (Identity as the perimeter)
-* ☁️ **Cloud Native Architecture** (Scalability by design)
-* 💎 **High-Integrity Data** (Auditability and truth)
+## 🛠️ Stack y herramientas
 
----
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat&logo=diagramsdotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🏗️ **Active Development (The Lab)**
+`Lambda` · `API Gateway` · `DynamoDB` · `S3` · `ECS Fargate` · `ECR` · `CloudWatch` · `CloudTrail` · `AWS Config` · `ADR (Architecture Decision Records)`
 
-My primary focus is leading the architecture and roadmap for our flagship initiative:
+## 🚀 Proyectos destacados
 
-| Initiative | Role | Tech DNA | Status |
-| :--- | :--- | :--- | :--- |
-| **🏢 URBE Ecosystem** | **Product Architect** | `Cloud Native` `SaaS` `PropTech` | 🚀 *Private Beta / R&D* |
-| _The first platform to guarantee transaction security & identity verification for Real Estate agents in Latam._ | _Defining the core logic and security protocols._ | [**Request Access**](https://codesyndicatelatam.com) |
+Arquitecturas diseñadas y documentadas durante el programa de Arquitectura Cloud de SOFOFA, cada una resuelta con foco en el problema real, decisiones justificadas (ADR) y trade-offs explícitos frente a las restricciones de AWS Academy Learner Lab.
 
----
+### 🛒 [Andes Digital Commerce Cloud](https://github.com/fevc08/andes-digital-commerce-cloud)
+**Problema:** ADC, retailer de e-commerce y logística con operación en Chile, Perú y Colombia, enfrenta picos de tráfico de 10-20x en eventos como CyberDay, mientras su ERP y WMS deben permanecer on-premise por integraciones contractuales con proveedores logísticos locales.
+**Rol:** Diseñé una arquitectura híbrida que absorbe la elasticidad de demanda en la nube sin forzar la migración de los sistemas legacy, documentando el modelo de costos y las diferencias entre entorno académico y producción.
+**Resultado:** Arquitectura híbrida multi-país que concilia escalabilidad cloud con restricciones reales de integración legacy.
+`AWS` · `Arquitectura híbrida` · `Alta disponibilidad` · `ADR`
 
-## 🔧 **Engineering Stack**
+### 💳 [MicroPay – Microservicios Orquestados](https://github.com/fevc08/micropay-microservicios-aws)
+**Problema:** Una fintech ficticia necesitaba migrar un sistema monolítico de procesamiento de pagos hacia una arquitectura desacoplada y escalable.
+**Rol:** Descompuse el monolito en microservicios (usuarios, pagos), los orquesté con ECS Fargate y ECR, y expuse la API a través de API Gateway con monitoreo en CloudWatch.
+**Resultado:** Arquitectura de microservicios contenedorizada, documentada con 5 ADRs cubriendo cada decisión clave de la migración.
+`Docker` · `Python (Flask)` · `ECS Fargate` · `ECR` · `API Gateway` · `CloudWatch`
 
-While my role is strategic, I define the technology stack that powers our products. This is the **Code Syndicate Core**:
+### ⚡ [Serverless Inteligente](https://github.com/fevc08/serverless-inteligente-aws)
+**Problema:** Un e-commerce necesitaba un backend funcional sin asumir la gestión ni el costo fijo de servidores.
+**Rol:** Implementé funciones Lambda en Python para usuarios y pedidos, expuestas vía API Gateway y persistidas en DynamoDB, con un frontend estático servido desde S3.
+**Resultado:** Backend 100% serverless, funcional de extremo a extremo (sitio estático, API, funciones y base de datos), sin infraestructura que administrar.
+`AWS Lambda` · `API Gateway` · `DynamoDB` · `S3` · `CloudWatch Logs`
 
-### **🧠 Data Intelligence (The Brain)**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+### 🔒 [Cloud Secure – AWS Academy](https://github.com/fevc08/cloud-secure-aws-academy)
+**Problema:** Blue Wave, una fintech ficticia, necesitaba establecer una postura de seguridad básica pero auditable en su entorno de AWS Academy.
+**Rol:** Implementé cifrado y bloqueo de acceso público en S3, auditoría de eventos con CloudTrail, cumplimiento continuo con AWS Config y alarmas de CloudWatch para detección temprana.
+**Resultado:** Cuatro controles de seguridad implementados y evidenciados por lección, con ADRs justificando cada decisión de configuración.
+`AWS Config` · `CloudTrail` · `S3` · `CloudWatch` · `Seguridad Cloud`
 
-### **🛡️ Infrastructure & Cloud (The Backbone)**
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+### ☁️ [Nube Sólida – Arquitectura Híbrida](https://github.com/fevc08/nube-solida-arquitectura-cloud)
+**Problema:** Diseñar conceptualmente una arquitectura cloud que resolviera escalabilidad, costos operativos y resiliencia para un caso de estudio, combinando distintos modelos de servicio.
+**Rol:** Propuse un modelo de servicio diferenciado por componente (IaaS/PaaS/SaaS/FaaS), combinando microservicios en contenedores y funciones serverless en un modelo híbrido, documentado con 6 ADRs.
+**Resultado:** Evaluación con nota máxima; proyecto usado además como contenido de portafolio en LinkedIn.
+`AWS` · `Cliente-Servidor` · `Arquitectura Híbrida` · `ADR`
 
-### **📊 Business Intelligence (The Vision)**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+## 📫 Contacto
 
----
-
-## 🧪 **R&D Background**
-
-Before scaling Code Syndicate, I engineered data-driven solutions that laid the foundation for our current capabilities:
-
-| Prototype | Logic | Stack |
-| :--- | :--- | :--- |
-| **💳 Fraud Detection Model** | *Anomaly Detection in Financial Transactions* | ![Python](https://img.shields.io/badge/-Python-black) ![ML](https://img.shields.io/badge/-ML-black) |
-| **🍷 Wine Pairing Engine** | *Recommendation Systems via Streamlit* | ![Streamlit](https://img.shields.io/badge/-Streamlit-black) |
-| **🌦️ Climate Predictor** | *Forecasting Models & API Integration* | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black) |
-
----
-
-<div align="center">
-  <p>
-    <b>Code Syndicate Latam S.A.S.</b><br>
-    <i>Santiago HQ • Bogotá R&D Hub</i>
-  </p>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=fevc08&hide=stars,issues&theme=radical&hide_border=true&bg_color=0e0e10&title_color=8236fc&text_color=a8a8b2&icon_color=fbd405" height="150" alt="stats graph" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fidel_Vera_Chourio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fidelverachourio/)
+[![Gmail](https://img.shields.io/badge/Email-fevc1988%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fevc1988@gmail.com)
